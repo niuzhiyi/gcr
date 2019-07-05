@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/example-guestbook-php-redis:v3
-
+FROM gcr.io/google_containers/hpa-example
